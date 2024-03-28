@@ -2,4 +2,4 @@
 👀 I’m interested in IT, coding, CMS, blockchain, music, and many more <br>
 🌱 I’m currently learning Java, HTML, CSS, JavaScript, React.js, AngularJS
 
-<img alt="Static Badge" src="https://img.shields.io/badge/email-brightgreen?style=flat-square&logo=minutemailer&logoColor=ffffff&link=mailto%3Amail%40herzigkev.in">
+<object alt="Static Badge" src="https://img.shields.io/badge/email-brightgreen?style=flat-square&logo=minutemailer&logoColor=ffffff&link=mailto%3Amail%40herzigkev.in">
