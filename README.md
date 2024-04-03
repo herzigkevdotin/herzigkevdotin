@@ -1,6 +1,6 @@
 # 👋 Hi, I’m herzigkevdotin <br>
-👀 I’m interested in IT, coding, CMS, blockchain, music, and many more <br>
-🌱 I’m currently learning Java, HTML, CSS, JavaScript, React.js, AngularJS
+👀 I’m interested in IT, coding, webdevelopment, CMS, blockchain, music, stand up paddling and many more <br>
+🌱 I’m currently learning Java, C#, HTML, CSS, JavaScript, React.js, AngularJS
 
 ## Contact
 <a href="mailto:mail@herzigkev.in">
